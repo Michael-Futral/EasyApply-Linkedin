@@ -1,7 +1,17 @@
 {
-    "email" : "your_email",
-    "password" : "your_password",
-    "keywords" : "your_keywords",
-    "location" : "your_location",
-    "driver_path" : "your_path_to_webdriver"
+    "email": "futralmc@dukes.jmu.edu",
+    "password": "20426101207Mc$",
+    "keywords": [
+        "Front End Software Developer",
+        "Software Developer",
+        "Software Engineer",
+        "Javascript"
+    ],
+    "location": [
+        "Remote",
+        "Onsite",
+        "Hybrid",
+        "Richmond"
+    ],
+    "driver_path": "driver/chromedriver.exe"
 }
